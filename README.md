@@ -60,6 +60,21 @@
     <td>前端</td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Remain-true-to-our-original-aspiration/interview/issues/7">东软联通物联网外包面试</a></td>
+    <td>前端</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Remain-true-to-our-original-aspiration/interview/issues/8">苏宁外包电话初面</a></td>
+    <td>前端</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Remain-true-to-our-original-aspiration/interview/issues/9">南京每天文化传媒电话初面</a></td>
+    <td>前端</td>
+    <td></td>
+  </tr>
 </table>
 
 #### 2017年的面经收集
