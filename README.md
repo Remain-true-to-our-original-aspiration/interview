@@ -76,7 +76,7 @@
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Remain-true-to-our-original-aspiration/interview/issues/11">https://github.com/Remain-true-to-our-original-aspiration/interview/issues/11</a></td>
+    <td><a href="https://github.com/Remain-true-to-our-original-aspiration/interview/issues/11">南京厚建面试</a></td>
     <td>前端</td>
     <td></td>
   </tr>
