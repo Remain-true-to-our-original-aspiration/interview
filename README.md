@@ -80,6 +80,11 @@
     <td>前端</td>
     <td></td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/Remain-true-to-our-original-aspiration/interview/issues/12">苏宁正式员工面试</a></td>
+    <td>前端</td>
+    <td></td>
+  </tr>
 </table>
 
 #### 2017年的面经收集
