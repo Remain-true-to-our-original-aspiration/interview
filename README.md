@@ -26,11 +26,6 @@
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://juejin.im/post/5abcfd12f265da2392366fe7">吃枣药丸啦 记一次电话面试</a></td>
-    <td>前端</td>
-    <td></td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/Remain-true-to-our-original-aspiration/interview/issues/1">上海证卷交易所前端面试</a></td>
     <td>前端</td>
     <td></td>
